@@ -4,7 +4,32 @@
     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     width="297mm" height="210mm" viewBox="0 0 297 210" xml:space="preserve">
     <style type="text/css">
-    
+    *{
+fill: #e78787;
+stroke: #6d2323;
+stroke-width: 0.2mm;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+[layer="Default"]{
+stroke: #2d1414;
+stroke-width:0.1mm;
+}
+[layer="Layer 01"]{
+stroke-dasharray: 0.5mm 0.5mm;
+fill: none;
+}
+[layer="Layer 02"]{
+stroke: #2d1414;
+fill: #2d1414;
+}
     </style>
-    <image transform="matrix(1.0 0.0 0.0 1.0 -757.238061329 -850.775862921)" width="1147.78772930" height="764.855472296" xlink:href=""C:\Users\syin0735\Documents\GitHub\ARCHIPUNK---SOPHIA\macquarie point.png""/>
+    
+<path spline_2deg="" d="M175.09 , 65.06 C 182.20 , 68.25 , 185.58 , 72.05 , 185.21 , 76.45" />
+<path spline_2deg="" d="M135.06 , 90.52 C 120.11 , 88.01 , 112.36 , 83.32 , 111.79 , 76.45" />
+<line x1="116.634972733" y1="135.049066201" x2="111.788321173" y2="76.4536123868" />
+<line x1="185.211678827" y1="76.4536123868" x2="180.365027267" y2="135.049066201" />
+<path spline_2deg="" d="M116.63 , 135.05 C 117.67 , 147.55 , 128.29 , 153.80 , 148.50 , 153.80 S 179.33 , 147.55 , 180.37 , 135.05" />
+<path spline_2deg="" d="M111.79 , 76.45 C 111.17 , 68.99 , 119.01 , 63.91 , 134.79 , 61.32 S 163.82 , 60.00 , 175.09 , 65.06" />
+<path spline_2deg="" d="M185.21 , 76.45 C 184.64 , 83.32 , 176.89 , 88.01 , 161.94 , 90.52" />
     </svg>
